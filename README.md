@@ -1,5 +1,5 @@
 ### Project Overview
- # This project implements a RESTful API for managing a personal book collection. It allows users to perform CRUD operations (Create, Read, Update, Delete) on books, stored in a MongoDB database using Mongoose for data modeling. The API is built with Node.js and Express, and includes error handling, data validation, and middleware for parsing JSON and handling CORS.
+This project implements a RESTful API for managing a personal book collection. It allows users to perform CRUD operations (Create, Read, Update, Delete) on books, stored in a MongoDB database using Mongoose for data modeling. The API is built with Node.js and Express, and includes error handling, data validation, and middleware for parsing JSON and handling CORS.
 
 ### Installation Instructions
 To run this project locally, follow these steps:
